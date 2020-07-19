@@ -32,3 +32,9 @@ Nick Case's Evolution of Trust is fun and engaging. It explores the basic and sl
 ### Virology
 #### [Virus, the Beauty of the Beast](http://viruspatterns.com/)
 In a combination of video explanation and interactive play, this game is an wonderful introduction to the world of viral structural patterns. The playability is limited, but it is super eduucational.
+
+## Art
+
+### Patterns
+#### [Virus, the Beauty of the Beast](http://viruspatterns.com/)
+In a combination of video explanation and interactive play, this game is an wonderful introduction to the world of viral structural patterns. The playability is limited, but it is super educational. The game combines biology to introductions to the study of patterns in architecture and art.
