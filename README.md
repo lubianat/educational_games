@@ -1,7 +1,11 @@
 # educational_games
-Just a curatedlist of educational and citizen science games or game-like activities
+Just a curated list of educational and citizen science games or game-like activities
 
 # Aggregators 
+
+- https://explorabl.es/all/
+- https://citizensciencegames.com/
+
 
 # Games by style
 
