@@ -42,5 +42,5 @@ In a combination of video explanation and interactive play, this game is an wond
 ## Phylosophy
 
 #### [Socrates Jones: Pro Philosopher](http://socratesjones.com/game.html)
-This flash game from 2013 has its own [Wikipedia page](https://en.wikipedia.org/wiki/Socrates_Jones:_Pro_Philosopher). You travel through time challenging a series of famous philosophers for debates. Win the argument, challenge the next one. And in the process, you get to learn the tenets of their theories. 
+This flash game from 2013 has its own [Wikipedia page](https://en.wikipedia.org/wiki/Socrates_Jones:_Pro_Philosopher). You challenge a series of famous philosophers for debates in a quest for the nature of morality. Fail to find it, and this may cost your (virtual) life. Win the argument, challenge the next one. And in the process, you get to learn the tenets of their theories. 
 There is a version of this game on [Kongregate](https://www.kongregate.com/games/chiefwakamakamu/socrates-jones-pro-philosopher/) available in English, Dutch and Russian. The game mechanics is slow paced, but the cnotent is amazing. Quite worthy of the time. 
