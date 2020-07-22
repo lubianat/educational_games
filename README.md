@@ -1,4 +1,4 @@
-# educational_games
+# Educational Games
 Just a curated list of educational and citizen science games or game-like activities
 
 # Aggregators 
