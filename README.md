@@ -50,4 +50,4 @@ There is a version of this game on [Kongregate](https://www.kongregate.com/games
 
 #### [Guess the correlation](http://guessthecorrelation.com/)
 
-Guess the correlations is a surprisingly fun game with a purpose that implicitly teaches inferences about correlations. It is made in an 8-bit style, with nice sound effects that make it a bit more addictive than it should. It also has a [Wikipedia page](https://en.wikipedia.org/wiki/Guess_the_Correlation).
+Guess the correlations is a surprisingly fun game with a purpose that implicitly teaches inferences about correlations. It is made in an 8-bit style, with nice sound effects that make it a bit more addictive than it should. It also has a [Wikipedia page](https://en.wikipedia.org/wiki/Guess_the_Correlation). Check the game's score board to get an idea of how addictive this game is. 
